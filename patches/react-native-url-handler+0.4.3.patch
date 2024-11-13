@@ -1,0 +1,30 @@
+diff --git a/node_modules/react-native-url-handler/.eslintrc b/node_modules/react-native-url-handler/.eslintrc
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/.npmignore b/node_modules/react-native-url-handler/.npmignore
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/LICENSE b/node_modules/react-native-url-handler/LICENSE
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/README.md b/node_modules/react-native-url-handler/README.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/UrlHandler.js b/node_modules/react-native-url-handler/UrlHandler.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/iOS/EXURLHandler.xcodeproj/project.pbxproj b/node_modules/react-native-url-handler/iOS/EXURLHandler.xcodeproj/project.pbxproj
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/iOS/EXURLHandler.xcodeproj/project.xcworkspace/contents.xcworkspacedata b/node_modules/react-native-url-handler/iOS/EXURLHandler.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/iOS/EXURLHandler/EXURLHandler.h b/node_modules/react-native-url-handler/iOS/EXURLHandler/EXURLHandler.h
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/iOS/EXURLHandler/EXURLHandler.m b/node_modules/react-native-url-handler/iOS/EXURLHandler/EXURLHandler.m
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-url-handler/react-native-url-handler.podspec b/node_modules/react-native-url-handler/react-native-url-handler.podspec
+old mode 100644
+new mode 100755
